@@ -16,6 +16,7 @@
 
 	<properties>
 		<java.version>8</java.version>
+		<snakeyaml.version>1.32</snakeyaml.version>
 	</properties>
 
 	<licenses>
